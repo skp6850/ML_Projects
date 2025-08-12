@@ -73,5 +73,4 @@ The work involves **data cleaning, feature engineering, model building, and insi
 * Actionable recommendations for fraud prevention
 
 ---
-
-Do you want me to also make a **shorter one-paragraph version** for a more minimal README? That’s often good if this is going on GitHub.
+ 
